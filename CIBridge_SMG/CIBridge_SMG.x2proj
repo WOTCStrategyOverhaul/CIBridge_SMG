@@ -16,6 +16,12 @@
     <Folder Include="Src\CIBridge_SMG\Classes\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Config\XComStrategyTuning.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\XComWeaponTuning.ini">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="ReadMe.txt" />
     <Content Include="ModPreview.jpg" />
     <Content Include="Config\XComEditor.ini" />

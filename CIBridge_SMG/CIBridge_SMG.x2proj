@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Guid>46fc662d-a556-468d-9477-cb60b688688c</Guid>
+    <Name>CIBridge_SMG</Name>
+    <Description>Adjusts Long War SMG Pack for use with Covert Infiltration</Description>
+    <SteamPublishID>0</SteamPublishID>
+    <AssemblyName>CIBridge_SMG</AssemblyName>
+    <RootNamespace>CIBridge_SMG</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Localization\" />
+    <Folder Include="Src\" />
+    <Folder Include="Src\CIBridge_SMG\" />
+    <Folder Include="Src\CIBridge_SMG\Classes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReadMe.txt" />
+    <Content Include="ModPreview.jpg" />
+    <Content Include="Config\XComEditor.ini" />
+    <Content Include="Config\XComEngine.ini" />
+    <Content Include="Config\XComGame.ini" />
+    <Content Include="Localization\XComGame.int" />
+    <Content Include="Src\CIBridge_SMG\Classes\X2DownloadableContentInfo_CIBridge_SMG.uc" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)\XCOM2.targets" />
+</Project>

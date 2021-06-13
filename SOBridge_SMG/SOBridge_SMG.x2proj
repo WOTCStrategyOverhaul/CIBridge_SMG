@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Guid>46fc662d-a556-468d-9477-cb60b688688c</Guid>
-    <Name>CIBridge_SMG</Name>
+    <Name>SOBridge_SMG</Name>
     <Description>Adjusts Long War SMG Pack for use with Covert Infiltration</Description>
     <SteamPublishID>0</SteamPublishID>
-    <AssemblyName>CIBridge_SMG</AssemblyName>
-    <RootNamespace>CIBridge_SMG</RootNamespace>
+    <AssemblyName>SOBridge_SMG</AssemblyName>
+    <RootNamespace>SOBridge_SMG</RootNamespace>
     <ProjectGuid>{a7748b20-ab7e-4922-9590-90ed8ffe4899}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # XCOM ModBuddy Solution File, Format Version 11.00
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "CIBridge_SMG", "CIBridge_SMG\CIBridge_SMG.x2proj", "{A7748B20-AB7E-4922-9590-90ED8FFE4899}"
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "SOBridge_SMG", "SOBridge_SMG\SOBridge_SMG.x2proj", "{A7748B20-AB7E-4922-9590-90ED8FFE4899}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

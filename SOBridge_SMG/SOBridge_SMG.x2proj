@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Guid>46fc662d-a556-468d-9477-cb60b688688c</Guid>
@@ -13,6 +13,9 @@
     <Folder Include="Config\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Config\XComGame.ini">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Config\XComInfiltration.ini">
       <SubType>Content</SubType>
     </Content>
